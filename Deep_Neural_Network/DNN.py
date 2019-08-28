@@ -1,3 +1,9 @@
+import time
+import numpy as np
+import h5py
+import matplotlib.pyplot as plt
+import scipy
+
 def L_layer_model(X, Y, layers_dims, learning_rate = 0.0075, num_iterations = 3000, print_cost=False):#lr was 0.009
     """
     Implements a L-layer neural network: [LINEAR->RELU]*(L-1)->LINEAR->SIGMOID.
