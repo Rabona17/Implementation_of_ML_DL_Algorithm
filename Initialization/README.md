@@ -6,3 +6,4 @@ I will use a 3-layer neural network (already implemented for you). Here are the 
 - *Zeros initialization* --  setting `initialization = "zeros"` in the input argument.
 - *Random initialization* -- setting `initialization = "random"` in the input argument. This initializes the weights to large random values.  
 - *He initialization* -- setting `initialization = "he"` in the input argument. This initializes the weights to random values scaled according to a paper by He et al., 2015. 
+- *Xavier initialization* -- setting `initialization = "xavier"` in the input argument. Similar to He init
