@@ -1,3 +1,6 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
 def initialize_parameters_deep(layer_dims):
     """
     Arguments:
