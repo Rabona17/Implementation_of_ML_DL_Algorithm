@@ -1,6 +1,6 @@
 # Implementation_of_ML-DL_Algorithm
-This repo serves as my practice for the course [deeplearning specialization at deeplearning.ai](www.deeplearning.ai). The majority of codes(except for some helper codes that has nothing to do with ML) are written by Rab0na.
-Build several DL model from scratch, topics include LR, DNN, CNN, ResNet, optimizers, initialization methods and regularization. Also includes some practice for Tensowflow and Keras.
+This repo serves as my practice for the course [deeplearning specialization at deeplearning.ai](www.deeplearning.ai). The majority of codes(except for some helper codes that has nothing to do with ML) are written by Yuan Gao.
+Here I build several DL model from scratch, topics include LR, DNN, CNN, ResNet, optimizers, initialization methods and regularization. Also includes some practice for Tensowflow and Keras.
 
 ## Specification
 * Implemented a whole model (including initialization, regularization, BP, and different optimizers) for Deep Neural Network
