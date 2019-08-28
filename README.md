@@ -7,3 +7,9 @@ Here I build several DL model from scratch, topics include LR, DNN, CNN, ResNet,
 * Optimizers that built from scratch include mini-batch GD, SGD, RMSprop, Adam
 * Regularization methods that built form scratch include L1, L2, and Dropout
 * Initialization methods include Xavier and He
+* Implemented building blocks for Convolutional Neural Network including padding, pooling layers, colvolution layers, FC layers, BP for pooling layers and BP for Conv layers
+* Implemented Resnet with skipping step of 3 using Keras
+
+## Todo
+* YOLO
+* LSTM, RNN and other nlp algos
