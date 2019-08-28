@@ -2,3 +2,6 @@ A non-regularized model is obviously overfitting the training set. It is fitting
 
 ## L2
 ![l2.png](l2.png)
+## dropout
+**dropout** is a widely used regularization technique that is specific to deep learning. 
+**It randomly shuts down some neurons in each iteration.**
