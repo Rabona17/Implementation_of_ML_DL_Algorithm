@@ -11,5 +11,5 @@ Here I build several DL model from scratch, topics include LR, DNN, CNN, ResNet,
 * Implemented Resnet with skipping step of 3 using Keras
 
 ## Todo
-* YOLO
-* LSTM, RNN and other nlp algos
+* Face recognition, style transferring
+* LSTM, RNN and other NLP algos
