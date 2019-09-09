@@ -1,18 +1,7 @@
 #I just dump all the models, some may be used in other files
-import argparse
-import os
-import matplotlib.pyplot as plt
-from matplotlib.pyplot import imshow
-import scipy.io
-import scipy.misc
 import numpy as np
-import pandas as pd
-import PIL
 import tensorflow as tf
 from keras import backend as K
-from keras.layers import Input, Lambda, Conv2D
-from keras.models import load_model, Model
-from yad2k.models.keras_yolo import yolo_head, yolo_boxes_to_corners, preprocess_true_boxes, yolo_loss, yolo_body
 
 def yolo_filter_boxes(box_confidence, boxes, box_class_probs, threshold = .6):
     """Filters YOLO boxes by thresholding on object and class confidence.
