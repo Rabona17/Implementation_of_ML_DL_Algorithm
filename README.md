@@ -10,6 +10,7 @@ Here I build several DL model from scratch, topics include LR, DNN, CNN, ResNet,
 * Implemented building blocks for Convolutional Neural Network including padding, pooling layers, colvolution layers, FC layers, BP for pooling layers and BP for Conv layers
 * Implemented Resnet with skipping step of 3 using Keras
 * Implemented functions that uses Yolo to do object detection and identification
+* Add starter-friendly version of Google's Inception Net and faceNet, written by Deeplearning.ai
 
 ## Todo
 * Face recognition, style transferring
