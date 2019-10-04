@@ -11,7 +11,8 @@ Here I build several DL model from scratch, topics include LR, DNN, CNN, ResNet,
 * Implemented Resnet with skipping step of 3 using Keras
 * Implemented functions that uses Yolo to do object detection and identification
 * Add starter-friendly version of Google's Inception Net and faceNet, written by Deeplearning.ai
+* Implemented Siamese Network and Triplet loss for Face recognition
+* Build a independent project for Neural Style Transfer from scratch and can be seen [here](https://github.com/Rabona17/Neural-Style-Tranfer-From-Scratch)
 
 ## Todo
-* Face recognition, style transferring
 * LSTM, RNN and other NLP algos
