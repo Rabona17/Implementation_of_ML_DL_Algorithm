@@ -1,3 +1,4 @@
+#Using as few loop as possible
 import pandas as pd
 import numpy as np
 from scipy import stats
